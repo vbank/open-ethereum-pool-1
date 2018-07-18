@@ -9,8 +9,8 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/techievee/open-ethereum-pool/rpc"
-	"github.com/techievee/open-ethereum-pool/util"
+	"github.com/vbank/open-ethereum-pool-1/rpc"
+	"github.com/vbank/open-ethereum-pool-1/util"
 )
 
 const maxBacklog = 3

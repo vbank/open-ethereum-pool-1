@@ -5,8 +5,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/techievee/open-ethereum-pool/rpc"
-	"github.com/techievee/open-ethereum-pool/util"
+	"github.com/vbank/open-ethereum-pool-1/rpc"
+	"github.com/vbank/open-ethereum-pool-1/util"
 )
 
 // Allow only lowercase hexadecimal with 0x prefix

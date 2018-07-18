@@ -1,11 +1,11 @@
 package proxy
 
 import (
-	"github.com/techievee/open-ethereum-pool/api"
-	"github.com/techievee/open-ethereum-pool/payouts"
-	"github.com/techievee/open-ethereum-pool/policy"
-	"github.com/techievee/open-ethereum-pool/storage"
-	"github.com/techievee/open-ethereum-pool/exchange"
+	"github.com/vbank/open-ethereum-pool-1/api"
+	"github.com/vbank/open-ethereum-pool-1/payouts"
+	"github.com/vbank/open-ethereum-pool-1/policy"
+	"github.com/vbank/open-ethereum-pool-1/storage"
+	"github.com/vbank/open-ethereum-pool-1/exchange"
 
 )
 

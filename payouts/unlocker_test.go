@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/techievee/open-ethereum-pool/rpc"
-	"github.com/techievee/open-ethereum-pool/storage"
+	"github.com/vbank/open-ethereum-pool-1/rpc"
+	"github.com/vbank/open-ethereum-pool-1/storage"
 )
 
 func TestMain(m *testing.M) {
